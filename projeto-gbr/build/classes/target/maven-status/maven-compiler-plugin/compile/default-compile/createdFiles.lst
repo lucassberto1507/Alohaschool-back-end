@@ -1,0 +1,8 @@
+br\com\projetogbr\entidade\Pedido.class
+br\com\projetogbr\entidade\Produto.class
+br\com\projetogbr\dao\FornecedorDAO.class
+br\com\projetogbr\rest\Services.class
+br\com\projetogbr\entidade\Fornecedor.class
+br\com\projetogbr\dao\PedidoDAO.class
+br\com\projetogbr\config\BDConfig.class
+br\com\projetogbr\dao\ProdutoDAO.class
