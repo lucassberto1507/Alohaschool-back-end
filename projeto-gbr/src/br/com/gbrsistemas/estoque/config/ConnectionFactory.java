@@ -10,7 +10,7 @@ public class ConnectionFactory {
     private static final String USER = "root";
     private static final String PASS = "root";
 
-    public static Connection getConnection() {
+    public static Connection getConnection() throws RuntimeException {
 
         try {
             Class.forName(DRIVER);
